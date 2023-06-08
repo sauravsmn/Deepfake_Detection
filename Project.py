@@ -72,7 +72,8 @@ HEADER_STYLE=f"""<style>
     """
 
 HOMEPAGE_CONTENT='''
-#####  This project is initiated by the Münich, Germany Chapter to solve Real World Problems. The link to the project demonstration is attached [here](https://youtu.be/wyHJPyHvYSg)
+#####  This project is initiated by the Münich, Germany Chapter to solve Real World Problems. 
+The link to the project demonstration is attached [here](https://youtu.be/wyHJPyHvYSg)
 ### The Problem
 Deepfake generators have been able to produce imitations almost undetectable through human inspection. Per se, Deepfake detection is one of the notable challenges of digital forensics and media security. They can be used for:
 + Spreading false information and manipulating public opinion.
